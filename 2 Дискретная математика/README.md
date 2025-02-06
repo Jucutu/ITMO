@@ -6,5 +6,5 @@
 - [**GitHub ИСy27**](https://github.com/hashlag/dm-semester-2)
 
 ## Лекции
-- [**Лекции Страдиной Марины Владимировны**](https://drive.google.com/drive/folders/11hX0RXA3ZuPFNcqtzJxtprtv9p_PlHKm)
+- [**Лекции Страдиной Марины Владимировны**](https://drive.google.com/drive/u/0/folders/1gUr_LuaQXF-4i9-trvEHSaC13xuH0YxH)
 
